@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: FirstMicroService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lathe
+Implementation-Vendor-Id: priya_micro_service
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/first_micro_
+ servie/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.priya.firstmicroservice.Application
+
